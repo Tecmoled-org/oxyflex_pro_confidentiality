@@ -1,0 +1,30 @@
+- Privacy Policy
+
+This privacy policy applies to Tecmoled’s Android application. It explains how Tecmoled collects, uses, and shares user information.
+
+- Application Owner
+
+The application is owned by Tecmoled.
+
+- Types of Data Collected
+
+Tecmoled only collects your username and user password. If you use the premium feature, we also collect the date of connection. The location is monitored continuously in the background. Location and camera data are processed locally on the phone and sent only in case of an emergency contact alert that you have entered in the application. The camera is used only to facilitate the connection procedure via a QRCode.
+
+- Legal Basis for Collection
+
+Tecmoled does not collect any data other than the username and password. The legal basis for this collection is therefore the activation of the premium subscription.
+
+- Specific Purposes of Collection
+
+The username and password are collected by Tecmoled solely for the purpose of activating the premium subscription.
+
+- Third Parties with Access to Information
+
+No third party has access to your information. The location is communicated only to the emergency contact in case of an alert if you have entered it in the application.
+
+
+  
+
+We hope this privacy policy has provided you with the necessary information on how Tecmoled collects, uses, and shares your information. If you have any questions or concerns, please do not hesitate to contact us.
+
+Sincerely, The Tecmoled Team
